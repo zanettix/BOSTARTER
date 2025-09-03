@@ -26,6 +26,3 @@ Il **focus principale** è sulla **progettazione e implementazione del database*
 
 > **Nota**: L'interfaccia frontend è funzionale ma non rappresenta l'oggetto principale di valutazione.
 
----
-
-*Progetto accademico - Corso di Basi di Dati, Università di Bologna*
