@@ -1,0 +1,12 @@
+{
+    "name": "zanetti/website",
+    "description": "composer require mongodb/mongodb",
+    "authors": [
+        {
+            "name": "Piattaforma per campagne di crowdfounding"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.21"
+    }
+}
