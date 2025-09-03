@@ -4,8 +4,6 @@
 
 Si tratta di una piattaforma di crowdfunding ispirata a Kickstarter per progetti hardware e software. Gli utenti possono creare progetti con budget obiettivo, ricevere finanziamenti in cambio di reward, e candidarsi allo sviluppo di progetti software basandosi su matching di competenze.
 
-*Progetto sviluppato per il corso di **Basi di Dati** - CdS Informatica per il Management - A.A. 2024/2025*
-
 ## 🛠 Stack Tecnologico
 
 - **Backend**: PHP + Apache (stack LAMP)
