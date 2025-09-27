@@ -8,7 +8,7 @@ Si tratta di una piattaforma di crowdfunding ispirata a Kickstarter per progetti
 
 - **Backend**: PHP + Apache (stack LAMP)
 - **Database Relazionale**: MySQL
-- **Database NoSQL**: MongoDB (sistema di logging)
+- **Database NoSQL**: MongoDB Compass(sistema di logging)
 - **Frontend**: HTML, CSS, JavaScript
 
 ## Focus del Progetto
