@@ -1,26 +1,24 @@
-# BOSTARTER - Piattaforma di Crowdfunding
+A comprehensive database design project for a crowdfunding platform, built from requirements specification through logical and physical implementation.
 
-## Introduzione
+## Project Scope
 
-Si tratta di una piattaforma di crowdfunding ispirata a Kickstarter per progetti hardware e software. Gli utenti possono creare progetti con budget obiettivo, ricevere finanziamenti in cambio di reward, e candidarsi allo sviluppo di progetti software basandosi su matching di competenze.
+This project demonstrates the complete **database development lifecycle**:
 
-## Stack Tecnologico
+1. **Requirements Analysis** - Requirement gathering and glossary creation
+2. **Conceptual Design** - ER diagram modeling entities and relationships
+3. **Logical Design** - Schema restructuring and normalization to BCNF
+4. **Physical Implementation** - MySQL tables, constraints, and business logic
+5. **Testing Interface** - Basic web interface for database validation
 
-- **Backend**: PHP + Apache (stack XAMPP)
-- **Database Relazionale**: MySQL Workbench
-- **Database NoSQL**: MongoDB Compass(sistema di logging)
-- **Frontend**: HTML, CSS, JavaScript
+### Core Database Features
 
-## Focus del Progetto
+- **User Management**: Three user types with distinct privileges
+- **Dual Project Architecture**: Hardware projects with components, software projects with skill-based profiles
+- **Automated Business Logic**: Triggers for reliability tracking and project lifecycle
+- **Skill Matching System**: Competency-based candidate filtering
+- **Financial Tracking**: Funding system with automatic project status updates
+- **Referential Integrity**: Complete foreign key constraints with cascading rules
 
-Il **focus principale** è sulla **progettazione e implementazione del database** e del **backend**:
 
-- **Modellazione dati** completa (12+ tabelle)
-- **Stored Procedures** per tutte le operazioni
-- **Trigger** per aggiornamenti automatici (affidabilità, stati progetti)
-- **Eventi schedulati** per chiusura progetti scaduti
-- **Viste** per statistiche e classifiche
-- **Integrazione MySQL-MongoDB** per logging
 
-> **Nota**: L'interfaccia frontend è funzionale ma non rappresenta l'oggetto principale di valutazione.
-
+**Note**: This is a database-focused academic project. The web interface is provided solely for testing database functionality - frontend quality is not part of the evaluation criteria.
